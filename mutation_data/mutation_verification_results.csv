@@ -1,0 +1,6 @@
+Variant,Position,Expected,Actual,Alternate,Status
+G86R,86,G,G,R,Verified
+R71H,71,R,R,H,Verified
+R71P,71,R,R,P,Verified
+C77R,77,C,C,R,Verified
+P82S,82,P,P,S,Verified

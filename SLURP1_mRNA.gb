@@ -1,0 +1,52 @@
+LOCUS       AY579079                 508 bp    mRNA    linear   PRI 16-DEC-2005
+DEFINITION  Homo sapiens SLURP1 (ARS) mRNA, complete cds.
+ACCESSION   AY579079
+VERSION     AY579079.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 508)
+  AUTHORS   Arredondo,J., Chernyavsky,A.I., Webber,R.J. and Grando,S.A.
+  TITLE     Biological effects of SLURP-1 on human keratinocytes
+  JOURNAL   J. Invest. Dermatol. 125 (6), 1236-1241 (2005)
+   PUBMED   16354194
+REFERENCE   2  (bases 1 to 508)
+  AUTHORS   Arredondo,J. and Grando,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2004) Dermatology, University of California,
+            Davis, 1515 Newton Court, 417, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..508
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="skin"
+     gene            1..508
+                     /gene="ARS"
+     CDS             27..338
+                     /gene="ARS"
+                     /note="member of the leukocyte antigen-6
+                     (Ly6)/urokinase-type plasminogen activator (uPAR) protein
+                     family; SLURP1 is encoded by the ARS component B-81/s
+                     locus; lacks a GPI-anchoring signal sequence"
+                     /codon_start=1
+                     /product="SLURP1"
+                     /protein_id="AAT01436.1"
+                     /translation="MASRWAVQLLLVAAWSVGCGEALKCYTCKEPMTSASCRTITRCK
+                     PEDTACMTTLVTVEAEYPFNQSPVVTRSCSSSCVATDPDSIGAAHLIFCCFRDLCNSE
+                     L"
+ORIGIN      
+        1 ctctcatcac ttctgagcac ggagcaatgg cctctcgctg ggctgtgcag ctgctgctcg
+       61 tggcagcctg gagcgtgggc tgtggtgagg ccctcaagtg ctacacctgc aaggagccca
+      121 tgaccagtgc ttcctgcagg accattaccc gctgcaagcc agaggacaca gcctgcatga
+      181 ccacgctggt gacggtggag gcagagtacc ccttcaacca gagccccgtg gtgacccgct
+      241 cctgctccag ctcctgtgtg gccaccgacc ccgacagcat cggggccgcc cacctgatct
+      301 tctgctgctt ccgagacctc tgcaactcgg aactctgaac ccagggcggc agggcggaag
+      361 gtgctcctca ggcacctcct ctctgacggg gcctggctcc acctgtgatc acctccccct
+      421 gcttcctgct gctgtggcac agctcactca tggggtctga ggggagagaa gcacaccagg
+      481 ggcgccctct gccttccata ccccacgc
+//
+

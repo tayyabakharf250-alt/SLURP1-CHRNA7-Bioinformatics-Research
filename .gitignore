@@ -1,0 +1,11 @@
+slurp1_env/
+docking/bio-env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.result.zip
+structures/*/*/
+*.zip
+structures/PY
+structures/from
+docking/PY
